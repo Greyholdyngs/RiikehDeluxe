@@ -1,0 +1,1505 @@
+
+
+
+[
+    {
+        "id": 1,
+        "name": "Podeager",
+        "type": "Leather",
+        "category": "Men-watch",
+        "price": "N27,000",
+        "color": "Display Color",
+        "quantity":"5pcs",
+        "image": "../src/assets/images/RiikehProductImages/photo_4.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Waist Chain",
+        "type": "Chain",
+        "category": "waist-chains",
+        "price": "N8,500",
+        "color": "Display color only",
+        "quantity": "3pcs",
+        "image": "../src/assets/images/RiikehProductImages/photo_28.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Small Gshock",
+        "type": "Rubber",
+        "category": "Men-watch",
+        "price": "N25,000",
+        "color": "6 shades of colors",
+        "quantity": "3pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_1.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Waist Chain",
+        "type": "Chain",
+        "category": "waist-chains",
+        "price": "N8,500",
+        "color": "Display color only",
+        "quantity": "3pcs",
+        "image": "../src/assets/images/RiikehProductImages/photo_29.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Daniel Wellington",
+        "type": "leather",
+        "category": "Men-watch",
+        "price": "N28,000",
+        "color": "Black and Brown",
+        "quantity": "2pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_2.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Waist Chain",
+        "type": "Chain",
+        "category": "waist-chains",
+        "price": "N8,500",
+        "color": "Display color only",
+        "quantity": "3pcs",
+        "image": "../src/assets/images/RiikehProductImages/photo_30.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Skmie Watch",
+        "type": "Rubber",
+        "category": "Men-watch",
+        "price": "N26,000",
+        "color": "Black, Blue, Green, White",
+        "quantity": "4pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_3.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Waist Chain",
+        "type": "Chain",
+        "category": "waist-chains",
+        "price": "N8,500",
+        "color": "Display color only",
+        "quantity": "3pcs",
+        "image": "../src/assets/images/RiikehProductImages/photo_31.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Curren",
+        "type": "Leather",
+        "category": "Men-watch",
+        "price": "N30,000",
+        "color": "Black and Brown",
+        "quantity": "3pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_5.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Waist Chain",
+        "type": "Chain",
+        "category": "waist-chains",
+        "price": "N8,500",
+        "color": "Display color only",
+        "quantity": "3pcs",
+        "image": "../src/assets/images/RiikehProductImages/photo_32.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Tissot Chronograph",
+        "type": "Leather",
+        "category": "Men-watch",
+        "price": "N30,000",
+        "color": "Black and Brown",
+        "quantity": "5pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_6.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Waist Chain",
+        "type": "Chain",
+        "category": "waist-chains",
+        "price": "N8,500",
+        "color": "Display color only",
+        "quantity": "3pcs",
+        "image": "../src/assets/images/RiikehProductImages/photo_33.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Gshock GA-V01",
+        "type": "Rubber",
+        "category": "Men-watch",
+        "price": "N85,000",
+        "color": "Display Color",
+        "quantity": "2pcs",
+        "image": "../src/assets/images/RiikehProductImages/photo_7.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Waist Chain",
+        "type": "Chain",
+        "category": "waist-chains",
+        "price": "N8,500",
+        "color": "Display color only",
+        "quantity": "3pcs",
+        "image": "../src/assets/images/RiikehProductImages/photo_34.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Burberry Bead",
+        "type": "Chain",
+        "category": "Ladies-watch",
+        "price": "N23,000",
+        "color": "Display Color",
+        "quantity": "2pcs",
+        "image": "../src/assets/images/RiikehProductImages/photo_8.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Waist Chain",
+        "type": "Chain",
+        "category": "waist-chains",
+        "price": "N8,500",
+        "color": "Display color only",
+        "quantity": "3pcs",
+        "image": "../src/assets/images/RiikehProductImages/photo_35.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Philippe Patek",
+        "type": "Chain",
+        "category": "Men-watch",
+        "price": "N30,000",
+        "color": "Gold and Silver",
+        "quantity": "5pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_9.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Waist Chain",
+        "type": "Chain",
+        "category": "waist-chains",
+        "price": "N8,500",
+        "color": "Display color only",
+        "quantity": "3pcs",
+        "image": "../src/assets/images/RiikehProductImages/photo_36.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Casio",
+        "type": "Leather",
+        "category": "unisex",
+        "price": "N20,000",
+        "color": "Display Colors",
+        "quantity": "2pcs each color",
+        "image": "../src/assets/images/RiikehProductImages/photo_10.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Waist Chain",
+        "type": "Chain",
+        "category": "waist-chains",
+        "price": "N8,500",
+        "color": "Display color only",
+        "quantity": "3pcs",
+        "image": "../src/assets/images/RiikehProductImages/photo_37.jpg"
+    },
+    {
+        "id": 21,
+        "name": "Frankmuller fullstone couples watch",
+        "type": "Chain",
+        "category": "Men-watch",
+        "price": "N30,000",
+        "color": "Gold and Silver",
+        "quantity": "4pcs Each",
+        "image": "../src/assets/images/RiikehProductImages/photo_11.jpg"
+    },
+    {
+        "id": 22,
+        "name": "Waist Chain",
+        "type": "Chain",
+        "category": "waist-chains",
+        "price": "N8,500",
+        "color": "Display color only",
+        "quantity": "3pcs",
+        "image": "../src/assets/images/RiikehProductImages/photo_38.jpg"
+    },
+    {
+        "id": 23,
+        "name": "Luxury Micheal Kors",
+        "type": "Chain",
+        "category": "Ladies-watch",
+        "price": "N135,000",
+        "color": "Gold, Silver and Rose gold",
+        "quantity": "1pcs Each",
+        "image": "../src/assets/images/RiikehProductImages/photo_12.jpg"
+    },
+    {
+        "id": 24,
+        "name": "Waist Chain",
+        "type": "Chain",
+        "category": "waist-chains",
+        "price": "N8,500",
+        "color": "Display color only",
+        "quantity": "3pcs",
+        "image": "../src/assets/images/RiikehProductImages/photo_39.jpg"
+    },
+    {
+        "id": 25,
+        "name": "Reward Watch",
+        "type": "Rubber",
+        "category": "Men-watch",
+        "price": "N42,000",
+        "color": "Display Colors",
+        "quantity": "2pcs Each Color",
+        "image": "../src/assets/images/RiikehProductImages/photo_13.jpg"
+    },
+    {
+        "id": 26,
+        "name": "Waist Chain",
+        "type": "Chain",
+        "category": "waist-chains",
+        "price": "N8,500",
+        "color": "Display color only",
+        "quantity": "3pcs",
+        "image": "../src/assets/images/RiikehProductImages/photo_40.jpg"
+    },
+    {
+        "id": 27,
+        "name": "Reward Watch",
+        "type": "Rubber",
+        "category": "Ladies-watch",
+        "price": "N35,000",
+        "color": "Display Colors",
+        "quantity": "2pcs Each Color",
+        "image": "../src/assets/images/RiikehProductImages/photo_14.jpg"
+    },
+    {
+        "id": 28,
+        "name": "Waist Chain",
+        "type": "Chain",
+        "category": "waist-chains",
+        "price": "N8,500",
+        "color": "Display color only",
+        "quantity": "3pcs",
+        "image": "../src/assets/images/RiikehProductImages/photo_41.jpg"
+    },
+    {
+        "id": 29,
+        "name": "Smart Watch USE-19",
+        "type": "Rubber",
+        "category": "Men-watch",
+        "price": "N29,000",
+        "color": "Display Color",
+        "quantity": "5pcs",
+        "image": "../src/assets/images/RiikehProductImages/photo_15.jpg"
+    },
+    {
+        "id": 30,
+        "name": "Waist Chain",
+        "type": "Chain",
+        "category": "waist-chains",
+        "price": "N8,500",
+        "color": "Display color only",
+        "quantity": "3pcs",
+        "image": "../src/assets/images/RiikehProductImages/photo_42.jpg"
+    },
+    {
+        "id": 31,
+        "name": "Cartier Strap",
+        "type": "Leather",
+        "category": "Ladies-watch",
+        "price": "N23,000",
+        "color": "Black, White, Green, Red",
+        "quantity": "3pcs Each Color",
+        "image": "../src/assets/images/RiikehProductImages/photo_16.jpg"
+    },
+    {
+        "id": 32,
+        "name": "Waist Chain",
+        "type": "Chain",
+        "category": "waist-chains",
+        "price": "N8,500",
+        "color": "Display color only",
+        "quantity": "3pcs",
+        "image": "../src/assets/images/RiikehProductImages/photo_43.jpg"
+    },
+    {
+        "id": 33,
+        "name": "Gshock",
+        "type": "Rubber",
+        "category": "Men-watch",
+        "price": "N40,000",
+        "color": "Black, White, OffWhite, Pink",
+        "quantity": "3pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_17.jpg"
+    },
+    {
+        "id": 34,
+        "name": "Waist Chain",
+        "type": "Chain",
+        "category": "waist-chains",
+        "price": "N8,500",
+        "color": "Display color only",
+        "quantity": "3pcs",
+        "image": "../src/assets/images/RiikehProductImages/photo_44.jpg"
+    },
+    {
+        "id": 35,
+        "name": "Hublot",
+        "type": "Leather",
+        "category": "Men-watch",
+        "price": "N22,000",
+        "color": "Display Colors",
+        "quantity": "3pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_18.jpg"
+    },
+    {
+        "id": 36,
+        "name": "Waist Chain",
+        "type": "Chain",
+        "category": "waist-chains",
+        "price": "N8,500",
+        "color": "Display color only",
+        "quantity": "3pcs",
+        "image": "../src/assets/images/RiikehProductImages/photo_45.jpg"
+    },
+    {
+        "id": 37,
+        "name": "Poedager",
+        "type": "Chain",
+        "category": "Men-watch",
+        "price": "N25,000",
+        "color": "Gold and Silver",
+        "quantity": "5pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_19.jpg"
+    },
+    {
+        "id": 38,
+        "name": "Waist Chain",
+        "type": "Chain",
+        "category": "waist-chains",
+        "price": "N8,500",
+        "color": "Display color only",
+        "quantity": "3pcs",
+        "image": "../src/assets/images/RiikehProductImages/photo_46.jpg"
+    },
+    {
+        "id": 39,
+        "name": "Binbond",
+        "type": "Chain",
+        "category": "Men-watch",
+        "price": "N35,000",
+        "color": "Gold, Silver and Rose Gold",
+        "quantity": "3pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_20.jpg"
+    },
+    {
+        "id": 40,
+        "name": "Waist Chain",
+        "type": "Chain",
+        "category": "waist-chains",
+        "price": "N8,500",
+        "color": "Display color only",
+        "quantity": "3pcs",
+        "image": "../src/assets/images/RiikehProductImages/photo_47.jpg"
+    },
+    {
+        "id": 41,
+        "name": "Rolex",
+        "type": "Chain",
+        "category": "Men-watch",
+        "price": "N40,000",
+        "color": "Gold, Silver and Green",
+        "quantity": "1pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_21.jpg"
+    },
+    {
+        "id": 42,
+        "name": "Waist Chain",
+        "type": "Chain",
+        "category": "waist-chains",
+        "price": "N8,500",
+        "color": "Display color only",
+        "quantity": "3pcs",
+        "image": "../src/assets/images/RiikehProductImages/photo_48.jpg"
+    },
+    {
+        "id": 43,
+        "name": "Curren",
+        "type": "Chain",
+        "category": "Ladies-watch",
+        "price": "N30,000",
+        "color": "Gold and Silver",
+        "quantity": "2pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_22.jpg"
+    },
+    {
+        "id": 44,
+        "name": "Necklace Set",
+        "type": "Chain",
+        "category": "women-necklace",
+        "price": "N14,000",
+        "color": "Display Color",
+        "quantity": "3pcs",
+        "image": "../src/assets/images/RiikehProductImages/photo_49.jpg"
+    },
+    {
+        "id": 45,
+        "name": "Presidential Rolex",
+        "type": "Chain",
+        "category": "unisex",
+        "price": "N20,500",
+        "color": "Gold, Silver, Black and Rose Gold",
+        "quantity": "7pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_23.jpg"
+    },
+    {
+        "id": 46,
+        "name": "Necklace and Bracelet",
+        "type": "Chain",
+        "category": "women-necklace",
+        "price": "M12,000",
+        "color": "Display Color",
+        "quantity": "2pcs",
+        "image": "../src/assets/images/RiikehProductImages/photo_51.jpg"
+    },
+    {
+        "id": 47,
+        "name": "Frankmuller Muller Ice",
+        "type": "Leather",
+        "category": "Men-watch",
+        "price": "N25,000",
+        "color": "Black and Blue",
+        "quantity": "3pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_24.jpg"
+    },
+    {
+        "id": 48,
+        "name": "Necklace set",
+        "type": "Chain",
+        "category": "women-necklace",
+        "price": "N14,000",
+        "color": "Display Color",
+        "quantity": "3pcs",
+        "image": "../src/assets/images/RiikehProductImages/photo_50.jpg"
+    },
+    {
+        "id": 49,
+        "name": "Gshock",
+        "type": "Rubber",
+        "category": "Men-watch",
+        "price": "N24,000",
+        "color": "White, Green and Red",
+        "quantity": "5pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_25.jpg"
+    },
+    {
+        "id": 50,
+        "name": "Laced Necklace",
+        "type": "Chain",
+        "category": "women-necklace",
+        "price": "N11,000",
+        "color": "Display Color",
+        "quantity": "3pcs",
+        "image": "../src/assets/images/RiikehProductImages/photo_52.jpg"
+    },
+    {
+        "id": 51,
+        "name": "Tommy Hilfiger",
+        "type": "Chain",
+        "category": "Men-watch",
+        "price": "N35,000",
+        "color": "Gold, Rose Gold and Black",
+        "quantity": "2pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_26.jpg"
+    },
+    {
+        "id": 52,
+        "name": "Laced Necklace",
+        "type": "Chain",
+        "category": "women-necklace",
+        "price": "N11,000",
+        "color": "Display Color",
+        "quantity": "3pcs",
+        "image": "../src/assets/images/RiikehProductImages/photo_53.jpg"
+    },
+    {
+        "id": 53,
+        "name": "Gucci",
+        "type": "Leather",
+        "category": "Men-watch",
+        "price": "N35,000",
+        "color": "Black, Brown, Green, Red and White",
+        "quantity": "2pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_27.jpg"
+    },
+    {
+        "id": 54,
+        "name": "Men Bracelet",
+        "type": "Chain",
+        "category": "Men-bracelet",
+        "price": "N19,000",
+        "color": "Gold",
+        "quantity": "3pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_54.jpg"
+    },
+    {
+        "id": 55,
+        "name": "Men Bracelet",
+        "type": "Chain",
+        "category": "Men-bracelet",
+        "price": "N19,000",
+        "color": "Gold",
+        "quantity": "3pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_55.jpg"
+    },
+    {
+        "id": 56,
+        "name": "Beaded Bracelet",
+        "type": "Beads",
+        "category": "Men-bracelet",
+        "price": "N9,500",
+        "color": "Display Colors",
+        "quantity": "2pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_56.jpg"
+    },
+    {
+        "id": 57,
+        "name": "Beaded Bracelet",
+        "type": "Beads",
+        "category": "Men-bracelet",
+        "price": "N9,500",
+        "color": "Display Colors",
+        "quantity": "2pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_57.jpg"
+    },
+    {
+        "id": 58,
+        "name": "Beaded Bracelet",
+        "type": "Beads",
+        "category": "Men-bracelet",
+        "price": "N9,500",
+        "color": "Display Colors",
+        "quantity": "2pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_58.jpg"
+    },
+    {
+        "id": 59,
+        "name": "Beaded Bracelet",
+        "type": "Beads",
+        "category": "Men-bracelet",
+        "price": "N9,500",
+        "color": "Display Colors",
+        "quantity": "2pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_59.jpg"
+    },
+    {
+        "id": 60,
+        "name": "Beaded Bracelet",
+        "type": "Beads",
+        "category": "Men-bracelet",
+        "price": "N9,500",
+        "color": "Display Colors",
+        "quantity": "2pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_60.jpg"
+    },
+    {
+        "id": 61,
+        "name": "Beaded Bracelet",
+        "type": "Beads",
+        "category": "Men-bracelet",
+        "price": "N9,500",
+        "color": "Display Colors",
+        "quantity": "2pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_61.jpg"
+    },
+    {
+        "id": 62,
+        "name": "Beaded Bracelet",
+        "type": "Beads",
+        "category": "Men-bracelet",
+        "price": "N9,500",
+        "color": "Display Colors",
+        "quantity": "2pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_62.jpg"
+    },
+    {
+        "id": 63,
+        "name": "Beaded Bracelet",
+        "type": "Beads",
+        "category": "Men-bracelet",
+        "price": "N9,500",
+        "color": "Display Colors",
+        "quantity": "2pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_63.jpg"
+    },
+    {
+        "id": 64,
+        "name": "Men Bracelet",
+        "type": "Beads",
+        "category": "Men-bracelet",
+        "price": "N17,000",
+        "color": "Display Color",
+        "quantity": "2pcs ",
+        "image": "../src/assets/images/RiikehProductImages/photo_64.jpg"
+    },
+    {
+        "id": 65,
+        "name": "Men Bracelet",
+        "type": "Beads",
+        "category": "Men-bracelet",
+        "price": "N17,000",
+        "color": "Display Color",
+        "quantity": "2pcs ",
+        "image": "../src/assets/images/RiikehProductImages/photo_65.jpg"
+    },
+    {
+        "id": 66,
+        "name": "Men Bracelet",
+        "type": "Beads",
+        "category": "Men-bracelet",
+        "price": "N17,000",
+        "color": "Display Color",
+        "quantity": "2pcs ",
+        "image": "../src/assets/images/RiikehProductImages/photo_66.jpg"
+    },
+    {
+        "id": 67,
+        "name": "Men Bracelet",
+        "type": "Beads",
+        "category": "Men-bracelet",
+        "price": "N17,000",
+        "color": "Display Color",
+        "quantity": "2pcs ",
+        "image": "../src/assets/images/RiikehProductImages/photo_67.jpg"
+    },
+    {
+        "id": 68,
+        "name": "Men Bracelet",
+        "type": "Beads",
+        "category": "Men-bracelet",
+        "price": "N17,000",
+        "color": "Display Color",
+        "quantity": "2pcs ",
+        "image": "../src/assets/images/RiikehProductImages/photo_68.jpg"
+    },
+    {
+        "id": 69,
+        "name": "Men Bracelet",
+        "type": "Beads",
+        "category": "Men-bracelet",
+        "price": "N17,000",
+        "color": "Display Color",
+        "quantity": "2pcs ",
+        "image": "../src/assets/images/RiikehProductImages/photo_69.jpg"
+    },
+    {
+        "id": 70,
+        "name": "Men Bracelet",
+        "type": "Beads",
+        "category": "Men-bracelet",
+        "price": "N17,000",
+        "color": "Display Color",
+        "quantity": "2pcs ",
+        "image": "../src/assets/images/RiikehProductImages/photo_70.jpg"
+    },
+    {
+        "id": 71,
+        "name": "Men Bracelet",
+        "type": "Beads",
+        "category": "Men-bracelet",
+        "price": "N17,000",
+        "color": "Display Color",
+        "quantity": "2pcs ",
+        "image": "../src/assets/images/RiikehProductImages/photo_71.jpg"
+    },
+    {
+        "id": 72,
+        "name": "Men Bracelet",
+        "type": "Beads",
+        "category": "Men-bracelet",
+        "price": "N17,000",
+        "color": "Display Color",
+        "quantity": "2pcs ",
+        "image": "../src/assets/images/RiikehProductImages/photo_72.jpg"
+    },
+    {
+        "id": 73,
+        "name": "Men Bracelet",
+        "type": "Beads",
+        "category": "Men-bracelet",
+        "price": "N17,000",
+        "color": "Display Color",
+        "quantity": "2pcs ",
+        "image": "../src/assets/images/RiikehProductImages/photo_73.jpg"
+    },
+    {
+        "id": 74,
+        "name": "Men Bracelet",
+        "type": "Beads",
+        "category": "Men-bracelet",
+        "price": "N17,000",
+        "color": "Display Color",
+        "quantity": "2pcs ",
+        "image": "../src/assets/images/RiikehProductImages/photo_74.jpg"
+    },
+    {
+        "id": 75,
+        "name": "Men Earrings",
+        "type": "steel",
+        "category": "Men-earrings",
+        "price": "N8,500",
+        "color": "Display Color",
+        "quantity": "2pcs ",
+        "image": "../src/assets/images/RiikehProductImages/photo_75.jpg"
+    },
+    {
+        "id": 76,
+        "name": "Men Earrings",
+        "type": "steel",
+        "category": "Men-earrings",
+        "price": "N8,500",
+        "color": "Display Color",
+        "quantity": "2pcs ",
+        "image": "../src/assets/images/RiikehProductImages/photo_76.jpg"
+    },
+    {
+        "id": 77,
+        "name": "Men Earrings",
+        "type": "steel",
+        "category": "Men-earrings",
+        "price": "N8,500",
+        "color": "Display Color",
+        "quantity": "2pcs ",
+        "image": "../src/assets/images/RiikehProductImages/photo_77.jpg"
+    },
+    {
+        "id": 78,
+        "name": "Men Earrings",
+        "type": "steel",
+        "category": "Men-earrings",
+        "price": "N8,500",
+        "color": "Display Color",
+        "quantity": "2pcs ",
+        "image": "../src/assets/images/RiikehProductImages/photo_78.jpg"
+    },
+    {
+        "id": 79,
+        "name": "Men Earrings",
+        "type": "steel",
+        "category": "Men-earrings",
+        "price": "N8,500",
+        "color": "Display Color",
+        "quantity": "2pcs ",
+        "image": "../src/assets/images/RiikehProductImages/photo_79.jpg"
+    },
+    {
+        "id": 80,
+        "name": "Men Earrings",
+        "type": "steel",
+        "category": "Men-earrings",
+        "price": "N8,500",
+        "color": "Display Color",
+        "quantity": "2pcs ",
+        "image": "../src/assets/images/RiikehProductImages/photo_80.jpg"
+    },
+    {
+        "id": 81,
+        "name": "Men Earrings",
+        "type": "steel",
+        "category": "Men-earrings",
+        "price": "N8,500",
+        "color": "Display Color",
+        "quantity": "2pcs ",
+        "image": "../src/assets/images/RiikehProductImages/photo_81.jpg"
+    },
+    {
+        "id": 82,
+        "name": "Men Earrings",
+        "type": "steel",
+        "category": "Men-earrings",
+        "price": "N8,500",
+        "color": "Display Color",
+        "quantity": "2pcs ",
+        "image": "../src/assets/images/RiikehProductImages/photo_82.jpg"
+    },
+    {
+        "id": 83,
+        "name": "Men Earrings",
+        "type": "steel",
+        "category": "Men-earrings",
+        "price": "N8,500",
+        "color": "Display Color",
+        "quantity": "2pcs ",
+        "image": "../src/assets/images/RiikehProductImages/photo_83.jpg"
+    },
+    {
+        "id": 84,
+        "name": "Men Earrings",
+        "type": "steel",
+        "category": "Men-earrings",
+        "price": "N8,500",
+        "color": "Display Color",
+        "quantity": "2pcs ",
+        "image": "../src/assets/images/RiikehProductImages/photo_84.jpg"
+    },
+    {
+        "id": 85,
+        "name": "Men Steel Rings",
+        "type": "steel",
+        "category": "Men-steelrings",
+        "price": "N6,500",
+        "color": "Display Colors",
+        "quantity": "2pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_85.jpg"
+    },
+    {
+        "id": 86,
+        "name": "Men Steel Rings",
+        "type": "steel",
+        "category": "Men-steelrings",
+        "price": "N6,500",
+        "color": "Display Colors",
+        "quantity": "2pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_86.jpg"
+    },
+    {
+        "id": 87,
+        "name": "Men Steel Rings",
+        "type": "steel",
+        "category": "Men-steelrings",
+        "price": "N6,500",
+        "color": "Display Colors",
+        "quantity": "2pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_87.jpg"
+    },
+    {
+        "id": 88,
+        "name": "Men Steel Rings",
+        "type": "steel",
+        "category": "Men-steelrings",
+        "price": "N6,500",
+        "color": "Display Colors",
+        "quantity": "2pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_88.jpg"
+    },
+    {
+        "id": 89,
+        "name": "Men Steel Rings",
+        "type": "steel",
+        "category": "Men-steelrings",
+        "price": "N6,500",
+        "color": "Display Colors",
+        "quantity": "2pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_89.jpg"
+    },
+    {
+        "id": 90,
+        "name": "Men Steel Rings",
+        "type": "steel",
+        "category": "Men-steelrings",
+        "price": "N6,500",
+        "color": "Display Colors",
+        "quantity": "2pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_90.jpg"
+    },
+    {
+        "id": 91,
+        "name": "Men Steel Rings",
+        "type": "steel",
+        "category": "Men-steelrings",
+        "price": "N6,500",
+        "color": "Display Colors",
+        "quantity": "2pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_91.jpg"
+    },
+    {
+        "id": 92,
+        "name": "Men Steel Rings",
+        "type": "steel",
+        "category": "Men-steelrings",
+        "price": "N6,500",
+        "color": "Display Colors",
+        "quantity": "2pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_92.jpg"
+    },
+    {
+        "id": 93,
+        "name": "Men Steel Rings",
+        "type": "steel",
+        "category": "Men-steelrings",
+        "price": "N6,500",
+        "color": "Display Colors",
+        "quantity": "2pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_93.jpg"
+    },
+    {
+        "id": 94,
+        "name": "Men Steel Rings",
+        "type": "steel",
+        "category": "Men-steelrings",
+        "price": "N6,500",
+        "color": "Display Colors",
+        "quantity": "2pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_94.jpg"
+    },
+    {
+        "id": 95,
+        "name": "Men Steel Rings",
+        "type": "steel",
+        "category": "Men-steelrings",
+        "price": "N6,500",
+        "color": "Display Colors",
+        "quantity": "2pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_95.jpg"
+    },
+    {
+        "id": 96,
+        "name": "Men Steel Rings",
+        "type": "steel",
+        "category": "Men-steelrings",
+        "price": "N6,500",
+        "color": "Display Colors",
+        "quantity": "2pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_96.jpg"
+    },
+    {
+        "id": 97,
+        "name": "Men Steel Rings",
+        "type": "steel",
+        "category": "Men-steelrings",
+        "price": "N6,500",
+        "color": "Display Colors",
+        "quantity": "2pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_97.jpg"
+    },
+    {
+        "id": 98,
+        "name": "Men Steel Rings",
+        "type": "steel",
+        "category": "Men-steelrings",
+        "price": "N6,500",
+        "color": "Display Colors",
+        "quantity": "2pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_98.jpg"
+    },
+    {
+        "id": 99,
+        "name": "Men Steel Rings",
+        "type": "steel",
+        "category": "Men-steelrings",
+        "price": "N6,500",
+        "color": "Display Colors",
+        "quantity": "2pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_99.jpg"
+    },
+    {
+        "id": 100,
+        "name": "Men Steel Rings",
+        "type": "steel",
+        "category": "Men-steelrings",
+        "price": "N6,500",
+        "color": "Display Colors",
+        "quantity": "2pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_100.jpg"
+    },
+    {
+        "id": 101,
+        "name": "Men Steel Rings",
+        "type": "steel",
+        "category": "Men-steelrings",
+        "price": "N6,500",
+        "color": "Display Colors",
+        "quantity": "2pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_101.jpg"
+    },
+    {
+        "id": 102,
+        "name": "Men Steel Rings",
+        "type": "steel",
+        "category": "Men-steelrings",
+        "price": "N6,500",
+        "color": "Display Colors",
+        "quantity": "2pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_102.jpg"
+    },
+    {
+        "id": 103,
+        "name": "Men Steel Rings",
+        "type": "steel",
+        "category": "Men-steelrings",
+        "price": "N6,500",
+        "color": "Display Colors",
+        "quantity": "2pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_103.jpg"
+    },
+    {
+        "id": 104,
+        "name": "Men Steel Rings",
+        "type": "steel",
+        "category": "Men-steelrings",
+        "price": "N6,500",
+        "color": "Display Colors",
+        "quantity": "2pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_104.jpg"
+    },
+    {
+        "id": 105,
+        "name": "Men Steel Rings",
+        "type": "steel",
+        "category": "Men-steelrings",
+        "price": "N6,500",
+        "color": "Display Colors",
+        "quantity": "2pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_105.jpg"
+    },
+    {
+        "id": 106,
+        "name": "Men Steel Rings",
+        "type": "steel",
+        "category": "Men-steelrings",
+        "price": "N6,500",
+        "color": "Display Colors",
+        "quantity": "2pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_106.jpg"
+    },
+    {
+        "id": 107,
+        "name": "Men Steel Rings",
+        "type": "steel",
+        "category": "Men-steelrings",
+        "price": "N6,500",
+        "color": "Display Colors",
+        "quantity": "2pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_107.jpg"
+    },
+    {
+        "id": 108,
+        "name": "Men Steel Rings",
+        "type": "steel",
+        "category": "Men-steelrings",
+        "price": "N6,500",
+        "color": "Display Colors",
+        "quantity": "2pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_108.jpg"
+    },
+    {
+        "id": 109,
+        "name": "Men Steel Rings",
+        "type": "steel",
+        "category": "Men-steelrings",
+        "price": "N6,500",
+        "color": "Display Colors",
+        "quantity": "2pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_109.jpg"
+    },
+    {
+        "id": 110,
+        "name": "Chunky Bangles Female",
+        "type": "steel",
+        "category": "women-bangles",
+        "price": "N6,000",
+        "color": "Gold and Silver",
+        "quantity": "10pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_110.jpg"
+    },
+    {
+        "id": 111,
+        "name": "Chunky Bangles Female",
+        "type": "steel",
+        "category": "women-bangles",
+        "price": "N6,000",
+        "color": "Gold and Silver",
+        "quantity": "10pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_111.jpg"
+    },
+    {
+        "id": 112,
+        "name": "Chunky Bangles Female",
+        "type": "steel",
+        "category": "women-bangles",
+        "price": "N6,000",
+        "color": "Gold and Silver",
+        "quantity": "10pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_112.jpg"
+    },
+    {
+        "id": 113,
+        "name": "Chunky Bangles Female",
+        "type": "steel",
+        "category": "women-bangles",
+        "price": "N6,000",
+        "color": "Gold and Silver",
+        "quantity": "10pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_113.jpg"
+    },
+    {
+        "id": 114,
+        "name": "Chunky Bangles Female",
+        "type": "steel",
+        "category": "women-bangles",
+        "price": "N6,000",
+        "color": "Gold and Silver",
+        "quantity": "10pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_114.jpg"
+    },
+    {
+        "id": 115,
+        "name": "Chunky Bangles Female",
+        "type": "steel",
+        "category": "women-bangles",
+        "price": "N6,000",
+        "color": "Gold and Silver",
+        "quantity": "10pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_115.jpg"
+    },
+    {
+        "id": 116,
+        "name": "Steel Wedding Rings",
+        "type": "steel",
+        "category": "wedding-rings",
+        "price": "N30,000",
+        "color": "Gold and Silver",
+        "quantity": "3pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_116.jpg"
+    },
+    {
+        "id": 117,
+        "name": "Steel Wedding Rings",
+        "type": "steel",
+        "category": "wedding-rings",
+        "price": "N30,000",
+        "color": "Gold and Silver",
+        "quantity": "3pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_117.jpg"
+    },
+    {
+        "id": 118,
+        "name": "Steel Wedding Rings",
+        "type": "steel",
+        "category": "wedding-rings",
+        "price": "N30,000",
+        "color": "Gold and Silver",
+        "quantity": "3pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_118.jpg"
+    },
+    {
+        "id": 119,
+        "name": "Steel Wedding Rings",
+        "type": "steel",
+        "category": "wedding-rings",
+        "price": "N30,000",
+        "color": "Gold and Silver",
+        "quantity": "3pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_120.jpg"
+    },
+    {
+        "id": 120,
+        "name": "Steel Wedding Rings",
+        "type": "steel",
+        "category": "wedding-rings",
+        "price": "N30,000",
+        "color": "Gold and Silver",
+        "quantity": "3pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_121.jpg"
+    },
+    {
+        "id": 121,
+        "name": "Steel Wedding Rings",
+        "type": "steel",
+        "category": "wedding-rings",
+        "price": "N30,000",
+        "color": "Gold and Silver",
+        "quantity": "3pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_122.jpg"
+    },
+    {
+        "id": 122,
+        "name": "Bangle Set",
+        "type": "steel",
+        "category": "women-bangles",
+        "price": "N5,500",
+        "color": "Gold only",
+        "quantity": "3pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_128.jpg"
+    },
+    {
+        "id": 123,
+        "name": "Bangle Set",
+        "type": "steel",
+        "category": "women-bangles",
+        "price": "N5,500",
+        "color": "Gold only",
+        "quantity": "3pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_129.jpg"
+    },
+    {
+        "id": 124,
+        "name": "Bangle Set",
+        "type": "steel",
+        "category": "women-bangles",
+        "price": "N5,500",
+        "color": "Gold only",
+        "quantity": "3pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_130.jpg"
+    },
+    {
+        "id": 125,
+        "name": "Bangle Set",
+        "type": "steel",
+        "category": "women-bangles",
+        "price": "N5,500",
+        "color": "Gold only",
+        "quantity": "3pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_131.jpg"
+    },
+    {
+        "id": 126,
+        "name": "Bangle Set",
+        "type": "steel",
+        "category": "women-bangles",
+        "price": "N5,500",
+        "color": "Gold only",
+        "quantity": "3pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_132.jpg"
+    },
+    {
+        "id": 127,
+        "name": "Rolled Up Bracelet",
+        "type": "steel",
+        "category": "women-bangles",
+        "price": "N6,000",
+        "color": "Gold only",
+        "quantity": "4pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_133.jpg"
+    },
+    {
+        "id": 129,
+        "name": "Hand Chain Bracelet",
+        "type": "Chain",
+        "category": "women-bangles",
+        "price": "N4,500",
+        "color": "Gold and Silver",
+        "quantity": "Unlimited",
+        "image": "../src/assets/images/RiikehProductImages/photo_134.jpg"
+    },
+    {
+        "id": 130,
+        "name": "Hand Chain Bracelet",
+        "type": "Chain",
+        "category": "women-bangles",
+        "price": "N4,500",
+        "color": "Gold and Silver",
+        "quantity": "Unlimited",
+        "image": "../src/assets/images/RiikehProductImages/photo_135.jpg"
+    },
+    {
+        "id": 131,
+        "name": "Hand Chain Bracelet",
+        "type": "Chain",
+        "category": "women-bangles",
+        "price": "N4,500",
+        "color": "Gold and Silver",
+        "quantity": "Unlimited",
+        "image": "../src/assets/images/RiikehProductImages/photo_136.jpg"
+    },
+    {
+        "id": 132,
+        "name": "Hand Chain Bracelet",
+        "type": "Chain",
+        "category": "women-bangles",
+        "price": "N4,500",
+        "color": "Gold and Silver",
+        "quantity": "Unlimited",
+        "image": "../src/assets/images/RiikehProductImages/photo_137.jpg"
+    },
+    {
+        "id": 133,
+        "name": "Hand Chain Bracelet",
+        "type": "Chain",
+        "category": "women-bangles",
+        "price": "N4,500",
+        "color": "Gold and Silver",
+        "quantity": "Unlimited",
+        "image": "../src/assets/images/RiikehProductImages/photo_138.jpg"
+    },
+    {
+        "id": 134,
+        "name": "Hand Chain Bracelet",
+        "type": "Chain",
+        "category": "women-bangles",
+        "price": "N4,500",
+        "color": "Gold and Silver",
+        "quantity": "Unlimited",
+        "image": "../src/assets/images/RiikehProductImages/photo_139.jpg"
+    },
+    {
+        "id": 135,
+        "name": "G Necklace",
+        "type": "Chain",
+        "category": "women-necklace",
+        "price": "N12,000",
+        "color": "Gold, Silver, Grey, and Animal Skin",
+        "quantity": "2pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_140.jpg"
+    },
+    {
+        "id": 136,
+        "name": "Floral Earring",
+        "type": "",
+        "category": "women-earrings",
+        "price": "N5,000",
+        "color": "Available in several colors",
+        "quantity": "Stock Unlimited",
+        "image": "../src/assets/images/RiikehProductImages/photo_141.jpg"
+    },
+    {
+        "id": 137,
+        "name": "Floral Earring",
+        "type": "",
+        "category": "women-earrings",
+        "price": "N5,000",
+        "color": "Available in several colors",
+        "quantity": "Stock Unlimited",
+        "image": "../src/assets/images/RiikehProductImages/photo_142.jpg"
+    },
+    {
+        "id": 138,
+        "name": "Bracelet and Ring Set",
+        "type": "steel",
+        "category": "women-bangles",
+        "price": "N8,500",
+        "color": "Gold and Silver",
+        "quantity": "Stock Unlimited",
+        "image": "../src/assets/images/RiikehProductImages/photo_143.jpg"
+    },
+    {
+        "id": 139,
+        "name": "Knuckle Ring",
+        "type": "steel",
+        "category": "women-rings",
+        "price": "N6,000",
+        "color": "Gold and Silver",
+        "quantity": "5pcs each on both colors",
+        "image": "../src/assets/images/RiikehProductImages/photo_144.jpg"
+    },
+    {
+        "id": 140,
+        "name": "Female Rings",
+        "type": "steel",
+        "category": "women-rings",
+        "price": "N4,000 each",
+        "color": "Gold and Silver",
+        "quantity": "Unlimited",
+        "image": "../src/assets/images/RiikehProductImages/photo_145.jpg"
+    },
+    {
+        "id": 141,
+        "name": "Female Bracelet",
+        "type": "steel",
+        "category": "women-bangles",
+        "price": "N4,500",
+        "color": "Gold and Silver",
+        "quantity": "Unlimited",
+        "image": "../src/assets/images/RiikehProductImages/photo_146.jpg"
+    },
+    {
+        "id": 142,
+        "name": "Female Necklace Set",
+        "type": "Chain",
+        "category": "women-necklace",
+        "price": "N5,500",
+        "color": "Gold and Silver",
+        "quantity": "Unlimited",
+        "image": "../src/assets/images/RiikehProductImages/photo_147.jpg"
+    },
+    {
+        "id": 143,
+        "name": "Unisex Necklace",
+        "type": "Chain",
+        "category": "unisex",
+        "price": "N4,000",
+        "color": "Gold, Silver, Black",
+        "quantity": "Unlimited",
+        "image": "../src/assets/images/RiikehProductImages/photo_148.jpg"
+    },
+    {
+        "id": 144,
+        "name": "Nontarnish Female Necklace",
+        "type": "Chain",
+        "category": "women-necklace",
+        "price": "N4,000",
+        "color": "Gold and Silver",
+        "quantity": "10pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_149.jpg"
+    },
+    {
+        "id": 145,
+        "name": "Female Necklace",
+        "type": "Chain",
+        "category": "women-necklace",
+        "price": "N4,000",
+        "color": "Display Color",
+        "quantity": "5pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_150.jpg"
+    },
+    {
+        "id": 146,
+        "name": "Unisex Long Trendy Necklace",
+        "type": "Chain",
+        "category": "unisex",
+        "price": "N12,500",
+        "color": "Gold and Silver",
+        "quantity": "3pcs each",
+        "image": "../src/assets/images/RiikehProductImages/photo_151.jpg"
+    },
+    {
+        "id": 147,
+        "name": "Owanbe Set",
+        "type": "Chain",
+        "category": "women-necklace",
+        "price": "N25,000",
+        "color": "Display Color",
+        "quantity": "2pcs",
+        "image": "../src/assets/images/RiikehProductImages/photo_123.jpg"
+    },
+    {
+        "id": 148,
+        "name": "Owanbe Set",
+        "type": "Chain",
+        "category": "women-necklace",
+        "price": "N25,000",
+        "color": "Display Color",
+        "quantity": "2pcs",
+        "image": "../src/assets/images/RiikehProductImages/photo_124.jpg"
+    },
+    {
+        "id": 149,
+        "name": "Owanbe Set",
+        "type": "Chain",
+        "category": "women-necklace",
+        "price": "N25,000",
+        "color": "Display Color",
+        "quantity": "2pcs",
+        "image": "../src/assets/images/RiikehProductImages/photo_125.jpg"
+    },
+    {
+        "id": 150,
+        "name": "Owanbe Set",
+        "type": "Chain",
+        "category": "women-necklace",
+        "price": "N25,000",
+        "color": "Display Color",
+        "quantity": "2pcs",
+        "image": "../src/assets/images/RiikehProductImages/photo_126.jpg"
+    },
+    {
+        "id": 151,
+        "name": "Owanbe Set",
+        "type": "Chain",
+        "category": "women-necklace",
+        "price": "N25,000",
+        "color": "Display Color",
+        "quantity": "2pcs",
+        "image": "../src/assets/images/RiikehProductImages/photo_127.jpg"
+    }  
+]
