@@ -17,7 +17,7 @@ import photo3 from './assets/images/RiikehProductImages/photo_55.jpg'
 import photo4 from './assets/images/RiikehProductImages/photo_77.jpg'
 import photo5 from './assets/images/RiikehProductImages/photo_126.jpg'
 import igIcon from './assets/images/IG.png'
-import tiktokIcon from './assets/images/TikTok.png'
+import tiktokIcon from './assets/images/tiktok.png'
 
 function App() {
 
