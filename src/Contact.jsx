@@ -7,7 +7,7 @@ const Contact = () => {
 
     return(
         <div className={`h-screen lg:px-20 md:px-15 px-5 pb-10
-                      ${darkMode ? "bg-gray-900 text-gray-100" : "bg-gray-100 text-gray-900"}`}>
+                      ${darkMode ? "bg-[#121212] text-[#ffffff] shadow-[0_4px_12px_rgba(255,255,255,0.8)]" : "bg-[#ffffff] text-[#121212] shadow-[0_4px_12px_rgba(0,0,0,0.2)]"}`}>
             <Header darkMode={darkMode} setDarkMode={setDarkMode} />
             <div className="flex flex-col justify-center">
                 <div>

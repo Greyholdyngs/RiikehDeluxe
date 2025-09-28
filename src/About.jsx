@@ -18,12 +18,12 @@ const About = () => {
 
     return(
         <div className={`h-full lg:px-20 md:px-15 px-5 pb-10
-                      ${darkMode ? "bg-gray-900 text-gray-100" : "bg-gray-100 text-gray-900"}`}>
+                      ${darkMode ? "bg-[#121212] text-[#ffffff] shadow-[0_4px_12px_rgba(255,255,255,0.8)]" : "bg-[#ffffff] text-[#121212] shadow-[0_4px_12px_rgba(0,0,0,0.2)]"}`}>
             <Header darkMode={darkMode} setDarkMode={setDarkMode} />
             <div>
-                <h1 className={`font-bold text-5xl text-center pt-15`}>About Us</h1>
+                <h1 className={`font-bold text-5xl text-center md:pt-15 pt-8`}>About Us</h1>
             </div>
-            <div  className="lg:flex justify-between gap-20 items-center py-15">
+            <div  className="lg:flex justify-between gap-20 items-center md:py-15 py-7">
                 <div data-aos="fade-right" className="m-auto flex justify-center items-center text-center">
                     <img className="md:mb-o mb-10" src={avater} alt="" />
                 </div>

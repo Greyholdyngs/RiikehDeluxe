@@ -16,10 +16,10 @@ const Header = ({darkMode, setDarkMode}) => {
 
     return(
         <header className={`sticky top-0 flex justify-between items-center lg:py-4 py-2 lg:px-20 md:px-15 px-5 shadow-lg z-20
-                            ${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`}>
+                            ${darkMode ? "bg-[#121212] text-[#ffffff] shadow-[0_4px_12px_rgba(255,255,255,0.8)]" : "bg-[#ffffff] text-[#121212] shadow-[0_4px_12px_rgba(0,0,0,0.2)]"}`}>
             <nav>
                 <a href="#">
-                    <img className={`rounded-full md:w-13 w-10`} src={darkMode ? logoDark : logoLight } alt="" />
+                    <img className={`rounded-full md:w-13 w-15`} src={darkMode ? logoDark : logoLight } alt="" />
                 </a>
             </nav>
             <ul className={`md:flex hidden gap-10 items-center font-semibold text-xl`}>
