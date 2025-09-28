@@ -11,11 +11,11 @@ import Items from '../products.json'
 import filterIcon from './assets/images/filtericon.png'
 import logoLight from './assets/images/logolight.png';
 import logoDark from './assets/images/logodark.png'
-import photo1 from './assets/images/RiikehProductImages/photo_11.jpg'
-import photo2 from './assets/images/RiikehProductImages/photo_48.jpg'
-import photo3 from './assets/images/RiikehProductImages/photo_55.jpg'
-import photo4 from './assets/images/RiikehProductImages/photo_77.jpg'
-import photo5 from './assets/images/RiikehProductImages/photo_126.jpg'
+import photo1 from '../public/RiikehProductImages/photo_11.jpg'
+import photo2 from '../public/RiikehProductImages/photo_48.jpg'
+import photo3 from '../public/RiikehProductImages/photo_55.jpg'
+import photo4 from '../public/RiikehProductImages/photo_77.jpg'
+import photo5 from '../public/RiikehProductImages/photo_126.jpg'
 import igIcon from './assets/ig.png'
 import tiktokIcon from './assets/tiktok.png'
 
@@ -149,7 +149,7 @@ function App() {
         </div>
       </div>
       <div className={`grid lg:grid-cols-4 md:grid-cols-3 grid-cols-2 
-                        gap-10 cursor-pointer lg:px-20 md:px-15 px-5 py-15
+                        md:gap-10 gap-5 cursor-pointer lg:px-20 md:px-15 px-5 py-15
                     ${darkMode ? "bg-gray-800 text-gray-100" : "bg-gray-200 text-gray-900"}`}>
         {
           filteredItems.map((p) => (
