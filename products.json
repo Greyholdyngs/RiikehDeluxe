@@ -10,7 +10,7 @@
         "price": "N27,000",
         "color": "Display Color",
         "quantity":"5pcs",
-        "image": "/public/RiikehProductImages/photo_4.jpg"
+        "image": "/RiikehProductImages/photo_4.jpg"
     },
     {
         "id": 2,
@@ -20,7 +20,7 @@
         "price": "N8,500",
         "color": "Display color only",
         "quantity": "3pcs",
-        "image": "/public/RiikehProductImages/photo_28.jpg"
+        "image": "/RiikehProductImages/photo_28.jpg"
     },
     {
         "id": 3,

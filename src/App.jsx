@@ -69,40 +69,6 @@ function App() {
     <div className={`h-full
                       ${darkMode ? "bg-gray-900 text-gray-100" : "bg-gray-100 text-gray-900"}`}>
       <Header darkMode={darkMode} setDarkMode={setDarkMode} />
-      <div data-aos="fade-up" className={`search-area flex justify-between items-center py-15 lg:px-20 md:px-15 px-5 `}>
-        <div>
-          <label className={``} htmlFor="">
-          <input  data-aos="fade-right" className={`focus:outline-none ring-2 rounded-lg lg:w-160 lg:w-100 md:w-75 w-2/3 py-2 shadow-lg md:pl-12 pl-2 text-xl
-                            ${darkMode ? "ring-[#D4AF37] shadow-gray-500" : "ring-[#C5A029] shadow-gray-600"}`}
-                  type="text" placeholder='Search Items'
-                  onChange={handleChange}
-                  />
-          <img className={`relative -top-8 md:left-4 left-31 w-6`} src={search} alt="" />
-        </label>
-        </div>
-        <div className={`categories flex`}> 
-          <select data-aos="fade-left" className={`focus:outline-none ring-2 md:pr-10 pl-3 py-1 lg:w-70 md:w-50 w-25 rounded-lg font-semibold cursor-pointer
-                          ${darkMode ? "ring-[#D4AF37]" : "ring-[#C5A029]"}
-                          `}
-                value={category} 
-                onChange={(e) => setCategory(e.target.value)}>
-            <option className={`bg-[#C5A029] text-white ${category ? "bg-[#C5A029] text-white" : ""}`} value="all">Filter</option>
-            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="Men-watch">Men Watches</option>
-            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="Ladies-watch">Female Watches</option>
-            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="Men-steelrings">Men Rings</option>
-            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="women-rings">Women Rings</option>
-            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="Men-bracelet">Men Bracelet</option>
-            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="women-bangles">Women Bracelet</option>
-            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="women-necklace">Women Necklaces</option>
-            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="Men-earrings">Men Ear Rings</option>
-            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="women-earrings">Women Ear Rings</option>
-            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="waist-chains">Waist Chain</option>
-            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="unisex">Unisex</option>
-            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="wedding-rings">Wedding Rings</option>
-          </select>
-          <img className={`md:w-4 w-3 relative md:right-15 cursor-pointer md:flex hidden`} src={filterIcon} alt="" />
-        </div>
-      </div>
       <div data-aos="fade-up" className={`second-section relative w-full py-12
                       overflow-hidden md:flex justify-between lg:px-20 md:px-15 px-5 items-center`}>
         {
@@ -146,6 +112,40 @@ function App() {
             <img className={`w-70 h-60 rounded-b-3xl cursor-pointer
                             transition-transform transform duration-500 ease-in-out hover:scale-110 shadow-gray-600
                             `} src={waistChain} alt="" />
+        </div>
+      </div>
+      <div data-aos="fade-up" className={`search-area flex justify-between items-center py-15 lg:px-20 md:px-15 px-5 `}>
+        <div>
+          <label className={``} htmlFor="">
+          <input  data-aos="fade-right" className={`focus:outline-none ring-2 rounded-lg lg:w-160 lg:w-100 md:w-75 w-2/3 py-2 shadow-lg md:pl-12 pl-2 text-xl
+                            ${darkMode ? "ring-[#D4AF37] shadow-gray-500" : "ring-[#C5A029] shadow-gray-600"}`}
+                  type="text" placeholder='Search Items'
+                  onChange={handleChange}
+                  />
+          <img className={`relative -top-8 md:left-4 left-31 w-6`} src={search} alt="" />
+        </label>
+        </div>
+        <div className={`categories flex`}> 
+          <select data-aos="fade-left" className={`focus:outline-none ring-2 md:pr-10 pl-3 py-1 lg:w-70 md:w-50 w-25 rounded-lg font-semibold cursor-pointer
+                          ${darkMode ? "ring-[#D4AF37]" : "ring-[#C5A029]"}
+                          `}
+                value={category} 
+                onChange={(e) => setCategory(e.target.value)}>
+            <option className={`bg-[#C5A029] text-white ${category ? "bg-[#C5A029] text-white" : ""}`} value="all">Filter</option>
+            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="Men-watch">Men Watches</option>
+            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="Ladies-watch">Female Watches</option>
+            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="Men-steelrings">Men Rings</option>
+            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="women-rings">Women Rings</option>
+            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="Men-bracelet">Men Bracelet</option>
+            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="women-bangles">Women Bracelet</option>
+            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="women-necklace">Women Necklaces</option>
+            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="Men-earrings">Men Ear Rings</option>
+            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="women-earrings">Women Ear Rings</option>
+            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="waist-chains">Waist Chain</option>
+            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="unisex">Unisex</option>
+            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="wedding-rings">Wedding Rings</option>
+          </select>
+          <img className={`md:w-4 w-3 relative md:right-15 cursor-pointer md:flex hidden`} src={filterIcon} alt="" />
         </div>
       </div>
       <div className={`grid lg:grid-cols-4 md:grid-cols-3 grid-cols-2 
