@@ -5,6 +5,7 @@
     {
         "id": 1,
         "name": "Podeager",
+        "generalName": "watches",
         "type": "Leather",
         "category": "Men watch",
         "price": "N27,000",
@@ -15,6 +16,7 @@
     {
         "id": 2,
         "name": "Waist Chain",
+        "generalName": "waist chains",
         "type": "Chain",
         "category": "Waist chains",
         "price": "N8,500",
@@ -25,6 +27,7 @@
     {
         "id": 3,
         "name": "Small Gshock",
+         "generalName": "watches",
         "type": "Rubber",
         "category": "Men watch",
         "price": "N25,000",
@@ -35,6 +38,7 @@
     {
         "id": 4,
         "name": "Waist Chain",
+        "generalName": "waist chains",
         "type": "Chain",
         "category": "Waist chains",
         "price": "N8,500",
@@ -45,6 +49,7 @@
     {
         "id": 5,
         "name": "Daniel Wellington",
+         "generalName": "watches",
         "type": "leather",
         "category": "Men watch",
         "price": "N28,000",
@@ -55,6 +60,7 @@
     {
         "id": 6,
         "name": "Waist Chain",
+        "generalName": "waist chains",
         "type": "Chain",
         "category": "Waist chains",
         "price": "N8,500",
@@ -65,6 +71,7 @@
     {
         "id": 7,
         "name": "Skmie Watch",
+         "generalName": "watches",
         "type": "Rubber",
         "category": "Men watch",
         "price": "N26,000",
@@ -75,6 +82,7 @@
     {
         "id": 8,
         "name": "Waist Chain",
+        "generalName": "waist chains",
         "type": "Chain",
         "category": "Waist chains",
         "price": "N8,500",
@@ -85,6 +93,7 @@
     {
         "id": 9,
         "name": "Curren",
+         "generalName": "watches",
         "type": "Leather",
         "category": "Men watch",
         "price": "N30,000",
@@ -95,6 +104,7 @@
     {
         "id": 10,
         "name": "Waist Chain",
+        "generalName": "waist chains",
         "type": "Chain",
         "category": "Waist chains",
         "price": "N8,500",
@@ -105,6 +115,7 @@
     {
         "id": 11,
         "name": "Tissot Chronograph",
+         "generalName": "watches",
         "type": "Leather",
         "category": "Men watch",
         "price": "N30,000",
@@ -115,6 +126,7 @@
     {
         "id": 12,
         "name": "Waist Chain",
+        "generalName": "waist chains",
         "type": "Chain",
         "category": "Waist chains",
         "price": "N8,500",
@@ -125,6 +137,7 @@
     {
         "id": 13,
         "name": "Gshock GA-V01",
+         "generalName": "watches",
         "type": "Rubber",
         "category": "Men watch",
         "price": "N85,000",
@@ -135,6 +148,7 @@
     {
         "id": 14,
         "name": "Waist Chain",
+        "generalName": "waist chains",
         "type": "Chain",
         "category": "Waist chains",
         "price": "N8,500",
@@ -145,6 +159,7 @@
     {
         "id": 15,
         "name": "Burberry Bead",
+         "generalName": "watches",
         "type": "Chain",
         "category": "Women watch",
         "price": "N23,000",
@@ -155,6 +170,7 @@
     {
         "id": 16,
         "name": "Waist Chain",
+        "generalName": "waist chains",
         "type": "Chain",
         "category": "Waist chains",
         "price": "N8,500",
@@ -165,6 +181,7 @@
     {
         "id": 17,
         "name": "Philippe Patek",
+         "generalName": "watches",
         "type": "Chain",
         "category": "Men watch",
         "price": "N30,000",
@@ -175,6 +192,7 @@
     {
         "id": 18,
         "name": "Waist Chain",
+        "generalName": "waist chains",
         "type": "Chain",
         "category": "Waist chains",
         "price": "N8,500",
@@ -185,6 +203,7 @@
     {
         "id": 19,
         "name": "Casio",
+         "generalName": "watches",
         "type": "Leather",
         "category": "Unisex",
         "price": "N20,000",
@@ -195,6 +214,7 @@
     {
         "id": 20,
         "name": "Waist Chain",
+        "generalName": "waist chains",
         "type": "Chain",
         "category": "Waist chains",
         "price": "N8,500",
@@ -205,6 +225,7 @@
     {
         "id": 21,
         "name": "Frankmuller fullstone couples watch",
+         "generalName": "watches",
         "type": "Chain",
         "category": "Men watch",
         "price": "N30,000",
@@ -215,6 +236,7 @@
     {
         "id": 22,
         "name": "Waist Chain",
+        "generalName": "waist chains",
         "type": "Chain",
         "category": "Waist chains",
         "price": "N8,500",
@@ -225,6 +247,7 @@
     {
         "id": 23,
         "name": "Luxury Micheal Kors",
+         "generalName": "watches",
         "type": "Chain",
         "category": "Women watch",
         "price": "N135,000",
@@ -235,6 +258,7 @@
     {
         "id": 24,
         "name": "Waist Chain",
+        "generalName": "waist chains",
         "type": "Chain",
         "category": "Waist chains",
         "price": "N8,500",
@@ -245,6 +269,7 @@
     {
         "id": 25,
         "name": "Reward Watch",
+         "generalName": "watches",
         "type": "Rubber",
         "category": "Men watch",
         "price": "N42,000",
@@ -255,6 +280,7 @@
     {
         "id": 26,
         "name": "Waist Chain",
+        "generalName": "waist chains",
         "type": "Chain",
         "category": "Waist chains",
         "price": "N8,500",
@@ -265,6 +291,7 @@
     {
         "id": 27,
         "name": "Reward Watch",
+         "generalName": "watches",
         "type": "Rubber",
         "category": "Women watch",
         "price": "N35,000",
@@ -275,6 +302,7 @@
     {
         "id": 28,
         "name": "Waist Chain",
+        "generalName": "waist chains",
         "type": "Chain",
         "category": "Waist chains",
         "price": "N8,500",
@@ -285,6 +313,7 @@
     {
         "id": 29,
         "name": "Smart Watch USE-19",
+         "generalName": "watches",
         "type": "Rubber",
         "category": "Men watch",
         "price": "N29,000",
@@ -295,6 +324,7 @@
     {
         "id": 30,
         "name": "Waist Chain",
+        "generalName": "waist chains",
         "type": "Chain",
         "category": "Waist chains",
         "price": "N8,500",
@@ -305,6 +335,7 @@
     {
         "id": 31,
         "name": "Cartier Strap",
+         "generalName": "watches",
         "type": "Leather",
         "category": "Women watch",
         "price": "N23,000",
@@ -315,6 +346,7 @@
     {
         "id": 32,
         "name": "Waist Chain",
+        "generalName": "waist chains",
         "type": "Chain",
         "category": "Waist chains",
         "price": "N8,500",
@@ -325,6 +357,7 @@
     {
         "id": 33,
         "name": "Gshock",
+         "generalName": "watches",
         "type": "Rubber",
         "category": "Men watch",
         "price": "N40,000",
@@ -335,6 +368,7 @@
     {
         "id": 34,
         "name": "Waist Chain",
+        "generalName": "waist chains",
         "type": "Chain",
         "category": "Waist chains",
         "price": "N8,500",
@@ -345,6 +379,7 @@
     {
         "id": 35,
         "name": "Hublot",
+         "generalName": "watches",
         "type": "Leather",
         "category": "Men watch",
         "price": "N22,000",
@@ -355,6 +390,7 @@
     {
         "id": 36,
         "name": "Waist Chain",
+        "generalName": "waist chains",
         "type": "Chain",
         "category": "Waist chains",
         "price": "N8,500",
@@ -365,6 +401,7 @@
     {
         "id": 37,
         "name": "Poedager",
+         "generalName": "watches",
         "type": "Chain",
         "category": "Men watch",
         "price": "N25,000",
@@ -375,6 +412,7 @@
     {
         "id": 38,
         "name": "Waist Chain",
+        "generalName": "waist chains",
         "type": "Chain",
         "category": "Waist chains",
         "price": "N8,500",
@@ -385,6 +423,7 @@
     {
         "id": 39,
         "name": "Binbond",
+         "generalName": "watches",
         "type": "Chain",
         "category": "Men watch",
         "price": "N35,000",
@@ -395,6 +434,7 @@
     {
         "id": 40,
         "name": "Waist Chain",
+        "generalName": "waist chains",
         "type": "Chain",
         "category": "Waist chains",
         "price": "N8,500",
@@ -405,6 +445,7 @@
     {
         "id": 41,
         "name": "Rolex",
+         "generalName": "watches",
         "type": "Chain",
         "category": "Men watch",
         "price": "N40,000",
@@ -415,6 +456,7 @@
     {
         "id": 42,
         "name": "Waist Chain",
+        "generalName": "waist chains",
         "type": "Chain",
         "category": "Waist chains",
         "price": "N8,500",
@@ -425,6 +467,7 @@
     {
         "id": 43,
         "name": "Curren",
+         "generalName": "watches",
         "type": "Chain",
         "category": "Women watch",
         "price": "N30,000",
@@ -435,6 +478,7 @@
     {
         "id": 44,
         "name": "Necklace Set",
+        "generalName": "necklace",
         "type": "Chain",
         "category": "Women necklace",
         "price": "N14,000",
@@ -445,6 +489,7 @@
     {
         "id": 45,
         "name": "Presidential Rolex",
+         "generalName": "watches",
         "type": "Chain",
         "category": "Unisex",
         "price": "N20,500",
@@ -455,6 +500,7 @@
     {
         "id": 46,
         "name": "Necklace and Bracelet",
+        "generalName": "necklace",
         "type": "Chain",
         "category": "Women necklace",
         "price": "M12,000",
@@ -465,6 +511,7 @@
     {
         "id": 47,
         "name": "Frankmuller Muller Ice",
+         "generalName": "watches",
         "type": "Leather",
         "category": "Men watch",
         "price": "N25,000",
@@ -475,6 +522,7 @@
     {
         "id": 48,
         "name": "Necklace set",
+        "generalName": "necklace",
         "type": "Chain",
         "category": "Women necklace",
         "price": "N14,000",
@@ -485,6 +533,7 @@
     {
         "id": 49,
         "name": "Gshock",
+         "generalName": "watches",
         "type": "Rubber",
         "category": "Men watch",
         "price": "N24,000",
@@ -495,6 +544,7 @@
     {
         "id": 50,
         "name": "Laced Necklace",
+        "generalName": "necklace",
         "type": "Chain",
         "category": "Women necklace",
         "price": "N11,000",
@@ -505,6 +555,7 @@
     {
         "id": 51,
         "name": "Tommy Hilfiger",
+         "generalName": "watches",
         "type": "Chain",
         "category": "Men watch",
         "price": "N35,000",
@@ -515,6 +566,7 @@
     {
         "id": 52,
         "name": "Laced Necklace",
+        "generalName": "necklace",
         "type": "Chain",
         "category": "Women necklace",
         "price": "N11,000",
@@ -525,6 +577,7 @@
     {
         "id": 53,
         "name": "Gucci",
+         "generalName": "watches",
         "type": "Leather",
         "category": "Men watch",
         "price": "N35,000",
@@ -535,6 +588,7 @@
     {
         "id": 54,
         "name": "Men Bracelet",
+        "generalName": "bracelets",
         "type": "Chain",
         "category": "Men bracelet",
         "price": "N19,000",
@@ -545,6 +599,7 @@
     {
         "id": 55,
         "name": "Men Bracelet",
+        "generalName": "bracelets",
         "type": "Chain",
         "category": "Men bracelet",
         "price": "N19,000",
@@ -555,6 +610,7 @@
     {
         "id": 56,
         "name": "Beaded Bracelet",
+        "generalName": "bracelets",
         "type": "Beads",
         "category": "Men bracelet",
         "price": "N9,500",
@@ -565,6 +621,7 @@
     {
         "id": 57,
         "name": "Beaded Bracelet",
+        "generalName": "bracelets",
         "type": "Beads",
         "category": "Men bracelet",
         "price": "N9,500",
@@ -575,6 +632,7 @@
     {
         "id": 58,
         "name": "Beaded Bracelet",
+        "generalName": "bracelets",
         "type": "Beads",
         "category": "Men bracelet",
         "price": "N9,500",
@@ -585,6 +643,7 @@
     {
         "id": 59,
         "name": "Beaded Bracelet",
+        "generalName": "bracelets",
         "type": "Beads",
         "category": "Men bracelet",
         "price": "N9,500",
@@ -595,6 +654,7 @@
     {
         "id": 60,
         "name": "Beaded Bracelet",
+        "generalName": "bracelets",
         "type": "Beads",
         "category": "Men bracelet",
         "price": "N9,500",
@@ -605,6 +665,7 @@
     {
         "id": 61,
         "name": "Beaded Bracelet",
+        "generalName": "bracelets",
         "type": "Beads",
         "category": "Men bracelet",
         "price": "N9,500",
@@ -615,6 +676,7 @@
     {
         "id": 62,
         "name": "Beaded Bracelet",
+        "generalName": "bracelets",
         "type": "Beads",
         "category": "Men bracelet",
         "price": "N9,500",
@@ -625,6 +687,7 @@
     {
         "id": 63,
         "name": "Beaded Bracelet",
+        "generalName": "bracelets",
         "type": "Beads",
         "category": "Men bracelet",
         "price": "N9,500",
@@ -635,6 +698,7 @@
     {
         "id": 64,
         "name": "Men Bracelet",
+        "generalName": "bracelets",
         "type": "Beads",
         "category": "Men bracelet",
         "price": "N17,000",
@@ -645,6 +709,7 @@
     {
         "id": 65,
         "name": "Men Bracelet",
+        "generalName": "bracelets",
         "type": "Beads",
         "category": "Men bracelet",
         "price": "N17,000",
@@ -655,6 +720,7 @@
     {
         "id": 66,
         "name": "Men Bracelet",
+        "generalName": "bracelets",
         "type": "Beads",
         "category": "Men bracelet",
         "price": "N17,000",
@@ -665,6 +731,7 @@
     {
         "id": 67,
         "name": "Men Bracelet",
+        "generalName": "bracelets",
         "type": "Beads",
         "category": "Men bracelet",
         "price": "N17,000",
@@ -675,6 +742,7 @@
     {
         "id": 68,
         "name": "Men Bracelet",
+        "generalName": "bracelets",
         "type": "Beads",
         "category": "Men bracelet",
         "price": "N17,000",
@@ -685,6 +753,7 @@
     {
         "id": 69,
         "name": "Men Bracelet",
+        "generalName": "bracelets",
         "type": "Beads",
         "category": "Men bracelet",
         "price": "N17,000",
@@ -695,6 +764,7 @@
     {
         "id": 70,
         "name": "Men Bracelet",
+        "generalName": "bracelets",
         "type": "Beads",
         "category": "Men bracelet",
         "price": "N17,000",
@@ -705,6 +775,7 @@
     {
         "id": 71,
         "name": "Men Bracelet",
+        "generalName": "bracelets",
         "type": "Beads",
         "category": "Men bracelet",
         "price": "N17,000",
@@ -715,6 +786,7 @@
     {
         "id": 72,
         "name": "Men Bracelet",
+        "generalName": "bracelets",
         "type": "Beads",
         "category": "Men bracelet",
         "price": "N17,000",
@@ -725,6 +797,7 @@
     {
         "id": 73,
         "name": "Men Bracelet",
+        "generalName": "bracelets",
         "type": "Beads",
         "category": "Men bracelet",
         "price": "N17,000",
@@ -735,6 +808,7 @@
     {
         "id": 74,
         "name": "Men Bracelet",
+        "generalName": "bracelets",
         "type": "Beads",
         "category": "Men bracelet",
         "price": "N17,000",
@@ -745,6 +819,7 @@
     {
         "id": 75,
         "name": "Men Earrings",
+        "generalName": "earrings",
         "type": "steel",
         "category": "Men earrings",
         "price": "N8,500",
@@ -755,6 +830,7 @@
     {
         "id": 76,
         "name": "Men Earrings",
+        "generalName": "earrings",
         "type": "steel",
         "category": "Men earrings",
         "price": "N8,500",
@@ -765,6 +841,7 @@
     {
         "id": 77,
         "name": "Men Earrings",
+        "generalName": "earrings",
         "type": "steel",
         "category": "Men earrings",
         "price": "N8,500",
@@ -775,6 +852,7 @@
     {
         "id": 78,
         "name": "Men Earrings",
+        "generalName": "earrings",
         "type": "steel",
         "category": "Men earrings",
         "price": "N8,500",
@@ -785,6 +863,7 @@
     {
         "id": 79,
         "name": "Men Earrings",
+        "generalName": "earrings",
         "type": "steel",
         "category": "Men earrings",
         "price": "N8,500",
@@ -795,6 +874,7 @@
     {
         "id": 80,
         "name": "Men Earrings",
+        "generalName": "earrings",
         "type": "steel",
         "category": "Men earrings",
         "price": "N8,500",
@@ -805,6 +885,7 @@
     {
         "id": 81,
         "name": "Men Earrings",
+        "generalName": "earrings",
         "type": "steel",
         "category": "Men earrings",
         "price": "N8,500",
@@ -815,6 +896,7 @@
     {
         "id": 82,
         "name": "Men Earrings",
+        "generalName": "earrings",
         "type": "steel",
         "category": "Men earrings",
         "price": "N8,500",
@@ -825,6 +907,7 @@
     {
         "id": 83,
         "name": "Men Earrings",
+        "generalName": "earrings",
         "type": "steel",
         "category": "Men earrings",
         "price": "N8,500",
@@ -835,6 +918,7 @@
     {
         "id": 84,
         "name": "Men Earrings",
+        "generalName": "earrings",
         "type": "steel",
         "category": "Men earrings",
         "price": "N8,500",
@@ -845,6 +929,7 @@
     {
         "id": 85,
         "name": "Men Steel Rings",
+        "generalName": "rings",
         "type": "steel",
         "category": "Men rings",
         "price": "N6,500",
@@ -855,6 +940,7 @@
     {
         "id": 86,
         "name": "Men Steel Rings",
+        "generalName": "rings",
         "type": "steel",
         "category": "Men rings",
         "price": "N6,500",
@@ -865,6 +951,7 @@
     {
         "id": 87,
         "name": "Men Steel Rings",
+        "generalName": "rings",
         "type": "steel",
         "category": "Men rings",
         "price": "N6,500",
@@ -875,6 +962,7 @@
     {
         "id": 88,
         "name": "Men Steel Rings",
+        "generalName": "rings",
         "type": "steel",
         "category": "Men rings",
         "price": "N6,500",
@@ -885,6 +973,7 @@
     {
         "id": 89,
         "name": "Men Steel Rings",
+        "generalName": "rings",
         "type": "steel",
         "category": "Men rings",
         "price": "N6,500",
@@ -895,6 +984,7 @@
     {
         "id": 90,
         "name": "Men Steel Rings",
+        "generalName": "rings",
         "type": "steel",
         "category": "Men rings",
         "price": "N6,500",
@@ -905,6 +995,7 @@
     {
         "id": 91,
         "name": "Men Steel Rings",
+        "generalName": "rings",
         "type": "steel",
         "category": "Men rings",
         "price": "N6,500",
@@ -915,6 +1006,7 @@
     {
         "id": 92,
         "name": "Men Steel Rings",
+        "generalName": "rings",
         "type": "steel",
         "category": "Men rings",
         "price": "N6,500",
@@ -925,6 +1017,7 @@
     {
         "id": 93,
         "name": "Men Steel Rings",
+        "generalName": "rings",
         "type": "steel",
         "category": "Men rings",
         "price": "N6,500",
@@ -935,6 +1028,7 @@
     {
         "id": 94,
         "name": "Men Steel Rings",
+        "generalName": "rings",
         "type": "steel",
         "category": "Men rings",
         "price": "N6,500",
@@ -945,6 +1039,7 @@
     {
         "id": 95,
         "name": "Men Steel Rings",
+        "generalName": "rings",
         "type": "steel",
         "category": "Men rings",
         "price": "N6,500",
@@ -955,6 +1050,7 @@
     {
         "id": 96,
         "name": "Men Steel Rings",
+        "generalName": "rings",
         "type": "steel",
         "category": "Men rings",
         "price": "N6,500",
@@ -965,6 +1061,7 @@
     {
         "id": 97,
         "name": "Men Steel Rings",
+        "generalName": "rings",
         "type": "steel",
         "category": "Men rings",
         "price": "N6,500",
@@ -975,6 +1072,7 @@
     {
         "id": 98,
         "name": "Men Steel Rings",
+        "generalName": "rings",
         "type": "steel",
         "category": "Men rings",
         "price": "N6,500",
@@ -985,6 +1083,7 @@
     {
         "id": 99,
         "name": "Men Steel Rings",
+        "generalName": "rings",
         "type": "steel",
         "category": "Men rings",
         "price": "N6,500",
@@ -995,6 +1094,7 @@
     {
         "id": 100,
         "name": "Men Steel Rings",
+        "generalName": "rings",
         "type": "steel",
         "category": "Men rings",
         "price": "N6,500",
@@ -1005,6 +1105,7 @@
     {
         "id": 101,
         "name": "Men Steel Rings",
+        "generalName": "rings",
         "type": "steel",
         "category": "Men rings",
         "price": "N6,500",
@@ -1015,6 +1116,7 @@
     {
         "id": 102,
         "name": "Men Steel Rings",
+        "generalName": "rings",
         "type": "steel",
         "category": "Men rings",
         "price": "N6,500",
@@ -1025,6 +1127,7 @@
     {
         "id": 103,
         "name": "Men Steel Rings",
+        "generalName": "rings",
         "type": "steel",
         "category": "Men rings",
         "price": "N6,500",
@@ -1035,6 +1138,7 @@
     {
         "id": 104,
         "name": "Men Steel Rings",
+        "generalName": "rings",
         "type": "steel",
         "category": "Men rings",
         "price": "N6,500",
@@ -1045,6 +1149,7 @@
     {
         "id": 105,
         "name": "Men Steel Rings",
+        "generalName": "rings",
         "type": "steel",
         "category": "Men rings",
         "price": "N6,500",
@@ -1055,6 +1160,7 @@
     {
         "id": 106,
         "name": "Men Steel Rings",
+        "generalName": "rings",
         "type": "steel",
         "category": "Men rings",
         "price": "N6,500",
@@ -1065,6 +1171,7 @@
     {
         "id": 107,
         "name": "Men Steel Rings",
+        "generalName": "rings",
         "type": "steel",
         "category": "Men rings",
         "price": "N6,500",
@@ -1075,6 +1182,7 @@
     {
         "id": 108,
         "name": "Men Steel Rings",
+        "generalName": "rings",
         "type": "steel",
         "category": "Men rings",
         "price": "N6,500",
@@ -1085,6 +1193,7 @@
     {
         "id": 109,
         "name": "Men Steel Rings",
+        "generalName": "rings",
         "type": "steel",
         "category": "Men rings",
         "price": "N6,500",
@@ -1095,6 +1204,7 @@
     {
         "id": 110,
         "name": "Chunky Bangles Female",
+        "generalName": "bangles",
         "type": "steel",
         "category": "Women bangles",
         "price": "N6,000",
@@ -1105,6 +1215,7 @@
     {
         "id": 111,
         "name": "Chunky Bangles Female",
+        "generalName": "bangles",
         "type": "steel",
         "category": "Women bangles",
         "price": "N6,000",
@@ -1115,6 +1226,7 @@
     {
         "id": 112,
         "name": "Chunky Bangles Female",
+        "generalName": "bangles",
         "type": "steel",
         "category": "Women bangles",
         "price": "N6,000",
@@ -1125,6 +1237,7 @@
     {
         "id": 113,
         "name": "Chunky Bangles Female",
+        "generalName": "bangles",
         "type": "steel",
         "category": "Women bangles",
         "price": "N6,000",
@@ -1135,6 +1248,7 @@
     {
         "id": 114,
         "name": "Chunky Bangles Female",
+        "generalName": "bangles",
         "type": "steel",
         "category": "Women bangles",
         "price": "N6,000",
@@ -1145,6 +1259,7 @@
     {
         "id": 115,
         "name": "Chunky Bangles Female",
+        "generalName": "bangles",
         "type": "steel",
         "category": "Women bangles",
         "price": "N6,000",
@@ -1155,6 +1270,7 @@
     {
         "id": 116,
         "name": "Steel Wedding Rings",
+        "generalName": "Wedding rings",
         "type": "steel",
         "category": "Wedding rings",
         "price": "N30,000",
@@ -1165,6 +1281,7 @@
     {
         "id": 117,
         "name": "Steel Wedding Rings",
+        "generalName": "Wedding rings",
         "type": "steel",
         "category": "Wedding rings",
         "price": "N30,000",
@@ -1175,6 +1292,7 @@
     {
         "id": 118,
         "name": "Steel Wedding Rings",
+        "generalName": "Wedding rings",
         "type": "steel",
         "category": "Wedding rings",
         "price": "N30,000",
@@ -1185,6 +1303,7 @@
     {
         "id": 119,
         "name": "Steel Wedding Rings",
+        "generalName": "Wedding rings",
         "type": "steel",
         "category": "Wedding rings",
         "price": "N30,000",
@@ -1195,6 +1314,7 @@
     {
         "id": 120,
         "name": "Steel Wedding Rings",
+        "generalName": "Wedding rings",
         "type": "steel",
         "category": "Wedding rings",
         "price": "N30,000",
@@ -1205,6 +1325,7 @@
     {
         "id": 121,
         "name": "Steel Wedding Rings",
+        "generalName": "Wedding rings",
         "type": "steel",
         "category": "Wedding rings",
         "price": "N30,000",
@@ -1215,6 +1336,7 @@
     {
         "id": 122,
         "name": "Bangle Set",
+        "generalName": "bangles",
         "type": "steel",
         "category": "Women bangles",
         "price": "N5,500",
@@ -1225,6 +1347,7 @@
     {
         "id": 123,
         "name": "Bangle Set",
+        "generalName": "bangles",
         "type": "steel",
         "category": "Women bangles",
         "price": "N5,500",
@@ -1235,6 +1358,7 @@
     {
         "id": 124,
         "name": "Bangle Set",
+        "generalName": "bangles",
         "type": "steel",
         "category": "Women bangles",
         "price": "N5,500",
@@ -1245,6 +1369,7 @@
     {
         "id": 125,
         "name": "Bangle Set",
+        "generalName": "bangles",
         "type": "steel",
         "category": "Women bangles",
         "price": "N5,500",
@@ -1255,6 +1380,7 @@
     {
         "id": 126,
         "name": "Bangle Set",
+        "generalName": "bangles",
         "type": "steel",
         "category": "Women bangles",
         "price": "N5,500",
@@ -1265,6 +1391,7 @@
     {
         "id": 127,
         "name": "Rolled Up Bracelet",
+        "generalName": "bracelets",
         "type": "steel",
         "category": "Women bangles",
         "price": "N6,000",
@@ -1275,6 +1402,7 @@
     {
         "id": 129,
         "name": "Hand Chain Bracelet",
+        "generalName": "bracelets",
         "type": "Chain",
         "category": "Women bangles",
         "price": "N4,500",
@@ -1285,6 +1413,7 @@
     {
         "id": 130,
         "name": "Hand Chain Bracelet",
+        "generalName": "bracelets",
         "type": "Chain",
         "category": "Women bangles",
         "price": "N4,500",
@@ -1295,6 +1424,7 @@
     {
         "id": 131,
         "name": "Hand Chain Bracelet",
+        "generalName": "bracelets",
         "type": "Chain",
         "category": "Women bangles",
         "price": "N4,500",
@@ -1305,6 +1435,7 @@
     {
         "id": 132,
         "name": "Hand Chain Bracelet",
+        "generalName": "bracelets",
         "type": "Chain",
         "category": "Women bangles",
         "price": "N4,500",
@@ -1315,6 +1446,7 @@
     {
         "id": 133,
         "name": "Hand Chain Bracelet",
+        "generalName": "bracelets",
         "type": "Chain",
         "category": "Women bangles",
         "price": "N4,500",
@@ -1325,6 +1457,7 @@
     {
         "id": 134,
         "name": "Hand Chain Bracelet",
+        "generalName": "bracelets",
         "type": "Chain",
         "category": "Women bangles",
         "price": "N4,500",
@@ -1335,6 +1468,7 @@
     {
         "id": 135,
         "name": "G Necklace",
+        "generalName": "necklace",
         "type": "Chain",
         "category": "Women necklace",
         "price": "N12,000",
@@ -1345,6 +1479,7 @@
     {
         "id": 136,
         "name": "Floral Earring",
+        "generalName": "earrings",
         "type": "cloth",
         "category": "Women earrings",
         "price": "N5,000",
@@ -1355,6 +1490,7 @@
     {
         "id": 137,
         "name": "Floral Earring",
+        "generalName": "earrings",
         "type": "cloth",
         "category": "Women earrings",
         "price": "N5,000",
@@ -1365,6 +1501,7 @@
     {
         "id": 138,
         "name": "Bracelet and Ring Set",
+        "generalName": "bracelets",
         "type": "steel",
         "category": "Women bangles",
         "price": "N8,500",
@@ -1375,6 +1512,7 @@
     {
         "id": 139,
         "name": "Knuckle Ring",
+        "generalName": "rings",
         "type": "steel",
         "category": "Women rings",
         "price": "N6,000",
@@ -1385,6 +1523,7 @@
     {
         "id": 140,
         "name": "Female Rings",
+        "generalName": "rings",
         "type": "steel",
         "category": "Women rings",
         "price": "N4,000 each",
@@ -1395,6 +1534,7 @@
     {
         "id": 141,
         "name": "Female Bracelet",
+        "generalName": "bracelets",
         "type": "steel",
         "category": "Women bangles",
         "price": "N4,500",
@@ -1405,6 +1545,7 @@
     {
         "id": 142,
         "name": "Female Necklace Set",
+        "generalName": "necklace",
         "type": "Chain",
         "category": "Women necklace",
         "price": "N5,500",
@@ -1415,6 +1556,7 @@
     {
         "id": 143,
         "name": "Unisex Necklace",
+        "generalName": "necklace",
         "type": "Chain",
         "category": "Unisex",
         "price": "N4,000",
@@ -1425,6 +1567,7 @@
     {
         "id": 144,
         "name": "Nontarnish Female Necklace",
+        "generalName": "necklace",
         "type": "Chain",
         "category": "Women necklace",
         "price": "N4,000",
@@ -1435,6 +1578,7 @@
     {
         "id": 145,
         "name": "Female Necklace",
+        "generalName": "necklace",
         "type": "Chain",
         "category": "Women necklace",
         "price": "N4,000",
@@ -1445,6 +1589,7 @@
     {
         "id": 146,
         "name": "Unisex Long Trendy Necklace",
+        "generalName": "necklace",
         "type": "Chain",
         "category": "Unisex",
         "price": "N12,500",
@@ -1455,6 +1600,7 @@
     {
         "id": 147,
         "name": "Owanbe Set",
+        "generalName": "necklace",
         "type": "Chain",
         "category": "Women necklace",
         "price": "N25,000",
@@ -1465,6 +1611,7 @@
     {
         "id": 148,
         "name": "Owanbe Set",
+        "generalName": "necklace",
         "type": "Chain",
         "category": "Women necklace",
         "price": "N25,000",
@@ -1475,6 +1622,7 @@
     {
         "id": 149,
         "name": "Owanbe Set",
+        "generalName": "necklace",
         "type": "Chain",
         "category": "Women necklace",
         "price": "N25,000",
@@ -1485,6 +1633,7 @@
     {
         "id": 150,
         "name": "Owanbe Set",
+        "generalName": "necklace",
         "type": "Chain",
         "category": "Women necklace",
         "price": "N25,000",
@@ -1495,6 +1644,7 @@
     {
         "id": 151,
         "name": "Owanbe Set",
+        "generalName": "necklace",
         "type": "Chain",
         "category": "Women necklace",
         "price": "N25,000",

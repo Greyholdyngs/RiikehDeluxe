@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useMemo } from 'react';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import Header from './Header';
@@ -27,6 +27,8 @@ function App() {
 
   const [category, setCategory] = useState("all");
 
+  const [generalName, setGeneralName] = useState("all");
+
   const [products, setProducts] = useState([]);
 
   const imageSlide = [ photo1, photo2, photo3, photo4, photo5];
@@ -51,16 +53,29 @@ function App() {
     setProducts(Items)
   }, [])
 
-  const filteredItems = products.filter((p) => {
+  const filteredItems = useMemo(() => {
 
-    const search = searchInput.toLowerCase()
+    const search = (searchInput || "").trim().toLowerCase();
 
-    const matchesCategory = category === "all" || p.category === category;
+    const safeLower = (v) => (v ? String(v).toLowerCase() : "");
 
-    const matchSearch = p.name.toLowerCase().includes(search) || p.category.toLowerCase().includes(search);
+    return products.filter((p) => {
 
-    return matchesCategory && matchSearch
+    const name = safeLower(p.name);
+
+    const prodCategory = safeLower(p.category);
+
+    const prodGeneral = safeLower(p.generalName)
+
+    const marchGeneralName = ( generalName === "all" ) || prodGeneral === (generalName || "").toLowerCase();
+
+    const matchesCategory = (category === "all") || prodCategory === (category || "").toLowerCase();
+
+    const matchSearch = !search || name.includes(search) || prodCategory.includes(search) || prodGeneral.includes(search);
+
+    return marchGeneralName && matchesCategory && matchSearch
   })
+  }, [products, searchInput, category, generalName]) 
 
   const handleChange = (e) => {
     SetSearchInput(e.target.value)
