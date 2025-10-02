@@ -120,12 +120,12 @@ function App() {
       <div data-aos="fade-up" className={`search-area md:flex justify-between items-center py-10 lg:px-20 md:px-15 px-5 `}>
         <div>
           <label className={``} htmlFor="">
-          <input  data-aos="fade-right" className={`focus:outline-none ring-2 rounded-lg lg:w-160  md:w-75 w-full py-2 shadow-lg md:pl-12 pl-14 text-xl
+          <input  data-aos="fade-right" className={`focus:outline-none md:text-xl md:font-semibold text-xs ring-2 rounded-lg lg:w-160  md:w-75 w-full py-2 shadow-lg md:pl-12 pl-14 text-xl
                             ${darkMode ? "ring-[#C5A253] shadow-gray-500" : "ring-[#C5A253] shadow-gray-600"}`}
                   type="text" placeholder='Search watches, rings, bracelets & more...'
                   onKeyUp={handleChange}
                   />
-          <img className={`relative -top-8 md:left-4 left-5 w-6`} src={search} alt="" />
+          <img className={`relative md:-top-8 -top-6 md:left-4 left-5 md:w-6 w-4`} src={search} alt="" />
         </label>
         </div>
         <div className={`categories flex`}> 
@@ -135,18 +135,18 @@ function App() {
                 value={category} 
                 onChange={(e) => setCategory(e.target.value)}>
             <option className={`bg-[#C5A253] text-white ${category ? "bg-[#C5A253] text-white" : ""}`} value="all">Filter</option>
-            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="Men-watch">Men Watches</option>
-            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="Ladies-watch">Female Watches</option>
-            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="Men-steelrings">Men Rings</option>
-            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="women-rings">Women Rings</option>
-            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="Men-bracelet">Men Bracelet</option>
-            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="women-bangles">Women Bangles</option>
-            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="women-necklace">Women Necklaces</option>
-            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="Men-earrings">Men Ear Rings</option>
-            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="women-earrings">Women Ear Rings</option>
-            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="waist-chains">Waist Chain</option>
-            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="unisex">Unisex</option>
-            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="wedding-rings">Wedding Rings</option>
+            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="Men watch">Men Watches</option>
+            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="Women watch">Women Watches</option>
+            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="Men rings">Men Rings</option>
+            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="Women rings">Women Rings</option>
+            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="Men bracelet">Men Bracelet</option>
+            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="Women bangles">Women Bangles</option>
+            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="Women necklace">Women Necklaces</option>
+            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="Men earrings">Men Ear Rings</option>
+            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="Women earrings">Women Ear Rings</option>
+            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="Waist chains">Waist Chain</option>
+            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="Unisex">Unisex</option>
+            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="Wedding rings">Wedding Rings</option>
           </select>
           <img className={`md:w-4 w-3 relative md:right-15 cursor-pointer md:flex hidden`} src={filterIcon} alt="" />
         </div>
@@ -161,7 +161,7 @@ function App() {
                                 duration-1000 ease-in-out hover:scale-110 border-1 border-[#C5A253]
                             ${darkMode ? "shadow-[0_4px_12px_rgba(255,255,255,0.8)] bg-[#121212] text-gray-100" : "shadow-[0_4px_12px_rgba(0,0,0,0.2)] bg-[#ffffff] text-gray-900"}`} key={p.id}>
                 <div className=''>
-                  <img className={`rounded-t-4xl w-full h-70 `} src={p.image} alt="" />
+                  <img className={`rounded-t-4xl md:w-full md:h-70 `} src={p.image} alt="" />
                 </div>
                 <div className={`text-center pt-5 border-1 border-[#C5A253] rounded-b-2xl`}>
                   <h1 className={`md:text-xl text-lg`}>
