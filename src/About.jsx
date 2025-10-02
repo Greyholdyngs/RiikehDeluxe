@@ -29,15 +29,13 @@ const About = () => {
                 </div>
                 <div data-aos="fade-left" className="font-base text-lg">
                     <p>Every piece tells a story, and at <span><strong>RiikehDeluxe</strong></span>, that story is one of elegance, confidence, and timeless beauty.</p>
-                    <p className="py-2">Founded by Dorcas Olatomiwa, RiikehDeluxe was born from a passion for creating accessories that do more than complete an outfit, they celebrate individuality. 
-                        From sleek watches to delicate waist chains, bold rings to elegant earrings, each piece is carefully selected to help you express who you truly are.
+                    <p className="py-2">Founded by Dorcas Olatomiwa, RiikehDeluxe was born to carefully select every piece that help you stand out and shine. From bold rings to sleek watches, delicate waist chains to elegant necklaces.
                     </p>
-                    <p className="py-2">For us, jewelry is more than an accessory. It's a statement of love, style, 
-                        and self expression. Whether it's a necklace that turns heads, a wedding ring that seals forever, 
-                        or a simple chain that makes you feel unstoppable, we design for life's every moment</p>
-                    <p className="py-2">At RiikehDeluxe, we believe luxury should feel personal. That's why every collection is crafted with attention to detail, quality, and the little spark that makes you stand out.</p>
+                    <p className="py-2">Whether it's a necklace that turns heads, a wedding ring that seals forever, 
+                        or a simple chain that makes you feel unstoppable, we select for life's every moment</p>
                     <p className="py-2">
-                        <strong>Our Promise: </strong><span>To bring you accessories that don't just shine on the outside, but make you feel beautiful and confident on the inside </span>
+                        <strong>Our Promise: </strong>
+                        <span> Quality pieces that bring sparkle, beauty, and confidence to every moment.</span>
                     </p>
                     <p className="py-2">RiikehDeluxe isn't just jewelry, it's your <span><strong>story</strong></span>, your <span><strong>style</strong></span>, your <span><strong>sparkle</strong></span>.</p>
                 </div>

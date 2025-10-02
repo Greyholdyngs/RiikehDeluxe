@@ -53,15 +53,17 @@ function App() {
 
   const filteredItems = products.filter((p) => {
 
+    const search = searchInput.toLowerCase()
+
     const matchesCategory = category === "all" || p.category === category;
 
-    const matchSearch = p.name.toLowerCase().includes(searchInput.toLowerCase());
+    const matchSearch = p.name.toLowerCase().includes(search) || p.category.toLowerCase().includes(search);
 
     return matchesCategory && matchSearch
   })
 
   const handleChange = (e) => {
-    SetSearchInput(target.event.value)
+    SetSearchInput(e.target.value)
     console.log(e)
   }
 
@@ -96,7 +98,7 @@ function App() {
               <button className={`text-center text-lg font-bold rounded-4xl cursor-pointer px-5 py-2 hover:text-white
                                   shadow-md transform duration-500 ease-in-out border-2 hover:border-none 
                                   ${darkMode ? "hover:bg-[#C3A360] border-[#C3A360] text-[#C3A360]" : "hover:bg-[#C3A360] text-[#C3A360] border-[#C3A360]"}`}>
-                <a href="https://wa.me/message/BV3K4JAM24USH1">Book Now</a>
+                <a href="https://wa.me/message/BV3K4JAM24USH1">Shop Now</a>
               </button>
             </div>
         </div>
@@ -120,8 +122,8 @@ function App() {
           <label className={``} htmlFor="">
           <input  data-aos="fade-right" className={`focus:outline-none ring-2 rounded-lg lg:w-160  md:w-75 w-full py-2 shadow-lg md:pl-12 pl-14 text-xl
                             ${darkMode ? "ring-[#C5A253] shadow-gray-500" : "ring-[#C5A253] shadow-gray-600"}`}
-                  type="text" placeholder='Search Items'
-                  onChange={handleChange}
+                  type="text" placeholder='Search watches, rings, bracelets & more...'
+                  onKeyUp={handleChange}
                   />
           <img className={`relative -top-8 md:left-4 left-5 w-6`} src={search} alt="" />
         </label>
@@ -138,7 +140,7 @@ function App() {
             <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="Men-steelrings">Men Rings</option>
             <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="women-rings">Women Rings</option>
             <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="Men-bracelet">Men Bracelet</option>
-            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="women-bangles">Women Bracelet</option>
+            <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="women-bangles">Women Bangles</option>
             <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="women-necklace">Women Necklaces</option>
             <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="Men-earrings">Men Ear Rings</option>
             <option className={`${darkMode ? "bg-gray-900 text-gray-100 shadow-gray-600" : "bg-gray-100 text-gray-900 shadow-gray-600"}`} value="women-earrings">Women Ear Rings</option>
